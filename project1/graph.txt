@@ -1,0 +1,259 @@
+{0=177, -29=1, 2=1, 3=1, 4=1, -27=1, -28=1, 5=3, 6=1, -25=2, 7=1, -26=1, -23=2, -24=1, 9=2, 10=1, -21=2, -22=2, 11=1, -19=1, 12=1, 13=1, 14=2, -17=3, -18=1, 15=1, -16=2, 17=1, -15=2, 16=1, -14=1, 19=1, 18=3, -13=2, -12=1, 21=1, -11=1, 20=1, 23=6, -10=1, -9=3, 22=2, 25=1, -8=1, -7=3, 24=1, -6=1, 27=1, 26=1, -5=1, -4=1, 29=1, 28=1, -3=1, -2=1, -1=1}Size1 = 6788
+Size2 = 428584
+
+-----------------
+node: startNode
+Out0: 2454 , weight = 0
+Out1: 3227 , weight = 0
+Out2: -6339 , weight = 0
+Out3: -7234 , weight = 0
+Out4: 7804 , weight = 0
+Out5: -2950 , weight = 0
+Out6: 4553 , weight = 0
+Out7: -3863 , weight = 0
+Out8: -2912 , weight = 0
+Out9: 9821 , weight = 0
+Out10: -1248 , weight = 0
+Out11: -6990 , weight = 0
+Out12: 2740 , weight = 0
+Out13: -112 , weight = 0
+Out14: -9072 , weight = 0
+Out15: 8573 , weight = 0
+Out16: -8562 , weight = 0
+Out17: 1344 , weight = 0
+Out18: 3335 , weight = 0
+Out19: 3656 , weight = 0
+Out20: -6175 , weight = 0
+Out21: 1351 , weight = 0
+Out22: 5650 , weight = 0
+Out23: 2308 , weight = 0
+Out24: -7662 , weight = 0
+Out25: 1128 , weight = 0
+Out26: -1059 , weight = 0
+Out27: 438 , weight = 0
+Out28: 9449 , weight = 0
+Out29: -3865 , weight = 0
+Out30: 4420 , weight = 0
+Out31: -631 , weight = 0
+Out32: 4129 , weight = 0
+Out33: -4700 , weight = 0
+Out34: 5237 , weight = 0
+Out35: 933 , weight = 0
+Out36: -4251 , weight = 0
+Out37: 7958 , weight = 0
+Out38: -3039 , weight = 0
+Out39: 5234 , weight = 0
+Out40: 9583 , weight = 0
+Out41: 5034 , weight = 0
+Out42: -4548 , weight = 0
+Out43: -5900 , weight = 0
+Out44: 7300 , weight = 0
+Out45: -7885 , weight = 0
+Out46: -1675 , weight = 0
+Out47: 2856 , weight = 0
+Out48: -7182 , weight = 0
+Out49: -4515 , weight = 0
+Out50: -9255 , weight = 0
+Out51: 6921 , weight = 0
+Out52: -6201 , weight = 0
+Out53: 9039 , weight = 0
+Out54: -1720 , weight = 0
+Out55: -6734 , weight = 0
+Out56: 2157 , weight = 0
+Out57: 6860 , weight = 0
+Out58: 2949 , weight = 0
+Out59: 1414 , weight = 0
+Out60: -2887 , weight = 0
+Out61: -693 , weight = 0
+Out62: -9527 , weight = 0
+Out63: 627 , weight = 0
+Out64: 2449 , weight = 0
+Out65: 5710 , weight = 0
+Out66: 8237 , weight = 0
+Out67: 8305 , weight = 0
+Out68: -4902 , weight = 0
+Out69: 6367 , weight = 0
+Out70: -2114 , weight = 0
+Out71: 2945 , weight = 0
+Out72: -5966 , weight = 0
+Out73: 4867 , weight = 0
+Out74: -3037 , weight = 0
+Out75: -596 , weight = 0
+Out76: 8614 , weight = 0
+Out77: -9498 , weight = 0
+Out78: 1029 , weight = 0
+Out79: -2707 , weight = 0
+Out80: 7339 , weight = 0
+Out81: 7377 , weight = 0
+Out82: -9751 , weight = 0
+Out83: 6610 , weight = 0
+Out84: -3636 , weight = 0
+Out85: 5285 , weight = 0
+Out86: 9470 , weight = 0
+
+-------------
+Node: 2454
+Out0: startNode , weight = 0 
+From startNode to Node28, weight = Sizeof(key(2454)) + Sizeof28)
+From Node28 to Node23, weight = Sizeof(23)
+From Node23 to Node18, weight = Sizeof(18)
+From Node18 to Node-9, weight = Sizeof(-9)
+From Node-9 to Node-13, weight = Sizeof(-13)
+From Node-13 to Node0, weight = Sizeof(0)
+From Node0 to Node13, weight = Sizeof(13)
+From Node13 to Node-18, weight = Sizeof(-18)
+From Node-18 to Node29, weight = Sizeof(29)
+From Node29 to Node0, weight = Sizeof(0)
+From Node0 to endPointOf 2454 , weight = 0
+
+-------------
+Node: 3227
+Out0: startNode , weight = 0 
+From startNode to Node17, weight = Sizeof(key(3227)) + Sizeof17)
+From Node17 to endPointOf 3227 , weight = 0
+
+-------------
+Node: -6339
+Out0: startNode , weight = 0 
+From startNode to Node27, weight = Sizeof(key(-6339)) + Sizeof27)
+From Node27 to Node-14, weight = Sizeof(-14)
+From Node-14 to Node-12, weight = Sizeof(-12)
+From Node-12 to Node-23, weight = Sizeof(-23)
+From Node-23 to Node-4, weight = Sizeof(-4)
+From Node-4 to Node-5, weight = Sizeof(-5)
+From Node-5 to Node-7, weight = Sizeof(-7)
+From Node-7 to Node-2, weight = Sizeof(-2)
+From Node-2 to Node26, weight = Sizeof(26)
+From Node26 to Node0, weight = Sizeof(0)
+From Node0 to Node-8, weight = Sizeof(-8)
+From Node-8 to Node0, weight = Sizeof(0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node-17, weight = Sizeof(-17)
+From Node-17 to endPointOf -6339 , weight = 0
+
+-------------
+Node: -7234
+Out0: startNode , weight = 0 
+From startNode to Node-24, weight = Sizeof(key(-7234)) + Sizeof-24)
+From Node-24 to Node-7, weight = Sizeof(-7)
+From Node-7 to Node0, weight = Sizeof(0)
+From Node0 to Node-17, weight = Sizeof(-17)
+From Node-17 to Node-27, weight = Sizeof(-27)
+From Node-27 to Node-23, weight = Sizeof(-23)
+From Node-23 to endPointOf -7234 , weight = 0
+
+-------------
+Node: 7804
+Out0: startNode , weight = 0 
+From startNode to Node22, weight = Sizeof(key(7804)) + Sizeof22)
+From Node22 to Node0, weight = Sizeof(0)
+From Node0 to endPointOf 7804 , weight = 0
+
+-------------
+Node: -2950
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(-2950)) + Sizeof0)
+From Node0 to endPointOf -2950 , weight = 0
+
+-------------
+Node: 4553
+Out0: startNode , weight = 0 
+From startNode to Node6, weight = Sizeof(key(4553)) + Sizeof6)
+From Node6 to endPointOf 4553 , weight = 0
+
+-------------
+Node: -3863
+Out0: startNode , weight = 0 
+From startNode to Node21, weight = Sizeof(key(-3863)) + Sizeof21)
+From Node21 to Node0, weight = Sizeof(0)
+From Node0 to Node23, weight = Sizeof(23)
+From Node23 to Node0, weight = Sizeof(0)
+From Node0 to Node9, weight = Sizeof(9)
+From Node9 to Node0, weight = Sizeof(0)
+From Node0 to Node5, weight = Sizeof(5)
+From Node5 to endPointOf -3863 , weight = 0
+
+-------------
+Node: -2912
+Out0: startNode , weight = 0 
+From startNode to Node-3, weight = Sizeof(key(-2912)) + Sizeof-3)
+From Node-3 to endPointOf -2912 , weight = 0
+
+-------------
+Node: 9821
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(9821)) + Sizeof0)
+From Node0 to Node-26, weight = Sizeof(-26)
+From Node-26 to endPointOf 9821 , weight = 0
+
+-------------
+Node: -1248
+Out0: startNode , weight = 0 
+From startNode to Node-11, weight = Sizeof(key(-1248)) + Sizeof-11)
+From Node-11 to endPointOf -1248 , weight = 0
+
+-------------
+Node: -6990
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(-6990)) + Sizeof0)
+From Node0 to endPointOf -6990 , weight = 0
+
+-------------
+Node: 2740
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(2740)) + Sizeof0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node12, weight = Sizeof(12)
+From Node12 to Node0, weight = Sizeof(0)
+From Node0 to endPointOf 2740 , weight = 0
+
+-------------
+Node: -112
+Out0: startNode , weight = 0 
+From startNode to Node-15, weight = Sizeof(key(-112)) + Sizeof-15)
+From Node-15 to Node-25, weight = Sizeof(-25)
+From Node-25 to Node-21, weight = Sizeof(-21)
+From Node-21 to Node0, weight = Sizeof(0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node23, weight = Sizeof(23)
+From Node23 to Node0, weight = Sizeof(0)
+From Node0 to Node18, weight = Sizeof(18)
+From Node18 to Node-9, weight = Sizeof(-9)
+From Node-9 to Node0, weight = Sizeof(0)
+From Node0 to Node14, weight = Sizeof(14)
+From Node14 to Node0, weight = Sizeof(0)
+From Node0 to endPointOf -112 , weight = 0
+
+-------------
+Node: -9072
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(-9072)) + Sizeof0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node10, weight = Sizeof(10)
+From Node10 to Node15, weight = Sizeof(15)
+From Node15 to endPointOf -9072 , weight = 0
+
+-------------
+Node: 8573
+Out0: startNode , weight = 0 
+From startNode to Node-15, weight = Sizeof(key(8573)) + Sizeof-15)
+From Node-15 to Node-25, weight = Sizeof(-25)
+From Node-25 to Node-21, weight = Sizeof(-21)
+From Node-21 to Node0, weight = Sizeof(0)
+From Node0 to Node0, weight = Sizeof(0)
+From Node0 to Node23, weight = Sizeof(23)
+From Node23 to Node0, weight = Sizeof(0)
+From Node0 to Node18, weight = Sizeof(18)
+From Node18 to Node-9, weight = Sizeof(-9)
+From Node-9 to Node0, weight = Sizeof(0)
+From Node0 to Node14, weight = Sizeof(14)
+From Node14 to Node5, weight = Sizeof(5)
+From Node5 to endPointOf 8573 , weight = 0
+
+-------------
+Node: -8562
+Out0: startNode , weight = 0 
+From startNode to Node0, weight = Sizeof(key(-8562)) + Sizeof0)
+From Node0 to Node22, weight = Sizeof(22)
+From Node22 to endPointOf -8562 , weight = 0
