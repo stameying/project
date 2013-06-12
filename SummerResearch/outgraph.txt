@@ -1,0 +1,422 @@
+Connector , Node662 , weight = 0
+Connector , Node-786 , weight = 0
+Connector , Node-769 , weight = 0
+Connector , Node293 , weight = 0
+Connector , Node-918 , weight = 0
+Connector , Node15 , weight = 0
+Connector , Node-968 , weight = 0
+Connector , Node-174 , weight = 0
+Connector , Node-185 , weight = 0
+Connector , Node820 , weight = 0
+Connector , Node717 , weight = 0
+Connector , Node30 , weight = 0
+Connector , Node635 , weight = 0
+Connector , Node-924 , weight = 0
+Connector , Node-429 , weight = 0
+Connector , Node-594 , weight = 0
+Connector , Node-963 , weight = 0
+Connector , Node-938 , weight = 0
+Connector , Node627 , weight = 0
+Connector , Node407 , weight = 0
+Connector , Node235 , weight = 0
+Connector , Node726 , weight = 0
+Connector , Node-394 , weight = 0
+Connector , Node905 , weight = 0
+Connector , Node316 , weight = 0
+Connector , Node-664 , weight = 0
+Connector , Node-340 , weight = 0
+Connector , Node-958 , weight = 0
+Connector , Node-249 , weight = 0
+Connector , Node344 , weight = 0
+Connector , Node874 , weight = 0
+Connector , Node-284 , weight = 0
+Connector , Node813 , weight = 0
+Connector , Node839 , weight = 0
+Connector , Node-328 , weight = 0
+Connector , Node-62 , weight = 0
+Connector , Node784 , weight = 0
+Connector , Node181 , weight = 0
+Connector , Node-721 , weight = 0
+Connector , Node-848 , weight = 0
+Connector , Node-417 , weight = 0
+Connector , Node-172 , weight = 0
+Connector , Node669 , weight = 0
+Connector , Node506 , weight = 0
+Connector , Node359 , weight = 0
+Connector , Node308 , weight = 0
+Connector , Node-376 , weight = 0
+Connector , Node554 , weight = 0
+Connector , Node-818 , weight = 0
+Connector , Node-61 , weight = 0
+Connector , Node892 , weight = 0
+Connector , Node-542 , weight = 0
+Connector , Node-453 , weight = 0
+Connector , Node-159 , weight = 0
+Connector , Node-632 , weight = 0
+Connector , Node-192 , weight = 0
+Connector , Node-747 , weight = 0
+Connector , Node-675 , weight = 0
+Connector , Node-58 , weight = 0
+Connector , Node-236 , weight = 0
+Connector , Node713 , weight = 0
+Connector , Node-694 , weight = 0
+Connector , Node-149 , weight = 0
+Connector , Node-52 , weight = 0
+Connector , Node-101 , weight = 0
+Connector , Node518 , weight = 0
+Connector , Node-52 , weight = 0
+Connector , Node490 , weight = 0
+Connector , Node656 , weight = 0
+Connector , Node923 , weight = 0
+Connector , Node386 , weight = 0
+Connector , Node-41 , weight = 0
+Connector , Node-790 , weight = 0
+Connector , Node14 , weight = 0
+Connector , Node-725 , weight = 0
+Connector , Node-688 , weight = 0
+Connector , Node-310 , weight = 0
+Connector , Node-872 , weight = 0
+Connector , Node-572 , weight = 0
+Connector , Node-630 , weight = 0
+Connector , Node-280 , weight = 0
+Connector , Node-43 , weight = 0
+Connector , Node362 , weight = 0
+Connector , Node-194 , weight = 0
+Connector , Node732 , weight = 0
+Connector , Node-976 , weight = 0
+Connector , Node-19 , weight = 0
+Connector , Node-6 , weight = 0
+Connector , Node554 , weight = 0
+Connector , Node840 , weight = 0
+Connector , Node-50 , weight = 0
+Connector , Node40 , weight = 0
+Connector , Node854 , weight = 0
+Connector , Node586 , weight = 0
+Connector , Node-826 , weight = 0
+Connector , Node767 , weight = 0
+Connector , Node644 , weight = 0
+Connector , Node-136 , weight = 0
+Connector , Node-719 , weight = 0
+Connector , Node-988 , weight = 0
+Connector , Node-557 , weight = 0
+Connector , Node-964 , weight = 0
+Connector , Node-693 , weight = 0
+Connector , Node-883 , weight = 0
+Connector , Node825 , weight = 0
+Connector , Node567 , weight = 0
+Connector , Node4 , weight = 0
+Connector , Node-738 , weight = 0
+Connector , Node-504 , weight = 0
+Connector , Node-882 , weight = 0
+Connector , Node262 , weight = 0
+Connector , Node-344 , weight = 0
+Connector , Node-997 , weight = 0
+Connector , Node-31 , weight = 0
+Connector , Node391 , weight = 0
+Connector , Node315 , weight = 0
+Connector , Node-721 , weight = 0
+Connector , Node874 , weight = 0
+Connector , Node-106 , weight = 0
+Connector , Node-532 , weight = 0
+Connector , Node2 , weight = 0
+Connector , Node-995 , weight = 0
+Connector , Node376 , weight = 0
+Connector , Node480 , weight = 0
+Connector , Node145 , weight = 0
+Connector , Node-972 , weight = 0
+Connector , Node-281 , weight = 0
+Connector , Node-214 , weight = 0
+Connector , Node-858 , weight = 0
+Connector , Node179 , weight = 0
+Connector , Node337 , weight = 0
+Connector , Node151 , weight = 0
+Connector , Node-227 , weight = 0
+Connector , Node-855 , weight = 0
+Connector , Node445 , weight = 0
+Connector , Node751 , weight = 0
+Connector , Node732 , weight = 0
+Connector , Node-806 , weight = 0
+Connector , Node846 , weight = 0
+Connector , Node161 , weight = 0
+Connector , Node-985 , weight = 0
+Connector , Node751 , weight = 0
+Connector , Node-289 , weight = 0
+Connector , Node-88 , weight = 0
+Connector , Node-3 , weight = 0
+Connector , Node738 , weight = 0
+Connector , Node-3 , weight = 0
+Connector , Node311 , weight = 0
+Connector , Node-802 , weight = 0
+Connector , Node-661 , weight = 0
+Connector , Node891 , weight = 0
+Connector , Node641 , weight = 0
+Connector , Node-499 , weight = 0
+Connector , Node-613 , weight = 0
+Connector , Node874 , weight = 0
+Connector , Node129 , weight = 0
+Connector , Node-684 , weight = 0
+Connector , Node638 , weight = 0
+Connector , Node174 , weight = 0
+Connector , Node-593 , weight = 0
+Connector , Node-63 , weight = 0
+Connector , Node-497 , weight = 0
+Connector , Node201 , weight = 0
+Connector , Node-170 , weight = 0
+Connector , Node-272 , weight = 0
+Connector , Node-626 , weight = 0
+Connector , Node902 , weight = 0
+Connector , Node-394 , weight = 0
+Connector , Node-964 , weight = 0
+Connector , Node965 , weight = 0
+Connector , Node-794 , weight = 0
+Connector , Node265 , weight = 0
+Connector , Node551 , weight = 0
+Connector , Node564 , weight = 0
+Connector , Node462 , weight = 0
+Connector , Node-276 , weight = 0
+Connector , Node-789 , weight = 0
+Connector , Node-797 , weight = 0
+Connector , Node525 , weight = 0
+Connector , Node165 , weight = 0
+Connector , Node725 , weight = 0
+Connector , Node539 , weight = 0
+Connector , Node777 , weight = 0
+Connector , Node-586 , weight = 0
+Connector , Node-913 , weight = 0
+Connector , Node-103 , weight = 0
+Connector , Node529 , weight = 0
+Connector , Node606 , weight = 0
+Connector , Node-483 , weight = 0
+Connector , Node-51 , weight = 0
+Connector , Node-247 , weight = 0
+Connector , Node-349 , weight = 0
+Connector , Node-102 , weight = 0
+Connector , Node-716 , weight = 0
+Connector , Node296 , weight = 0
+Connector , Node685 , weight = 0
+Connector , Node-832 , weight = 0
+Connector , Node-455 , weight = 0
+Connector , Node-227 , weight = 0
+Connector , Node636 , weight = 0
+Connector , Node-769 , weight = 0
+Connector , Node-985 , weight = 0
+Connector , Node233 , weight = 0
+Connector , Node49 , weight = 0
+Connector , Node926 , weight = 0
+Connector , Node288 , weight = 0
+Connector , Node38 , weight = 0
+Connector , Node520 , weight = 0
+Connector , Node793 , weight = 0
+Connector , Node259 , weight = 0
+Connector , Node927 , weight = 0
+Connector , Node494 , weight = 0
+Connector , Node974 , weight = 0
+Node-918 , Node-918', Weight: 7902
+Node15 , Node15', Weight: 14927
+Node-968 , Node-968', Weight: 4397
+Node-174 , Node-174', Weight: 5510
+Node-185 , Node-185', Weight: 1872
+Node820 , Node820', Weight: 18476
+Node717 , Node717', Weight: 7558
+Node30 , Node30', Weight: 6358
+Node635 , Node635', Weight: 9549
+Node-924 , Node-924', Weight: 6334
+Node-429 , Node-429', Weight: 51486
+Node-594 , Node-594', Weight: 4933
+Node-963 , Node-963', Weight: 81808
+Node-938 , Node-938', Weight: 23042
+Node627 , Node627', Weight: 12421
+Node407 , Node407', Weight: 548
+Node235 , Node235', Weight: 4842
+Node726 , Node726', Weight: 7585
+Node-394 , Node-394', Weight: 28521
+Node905 , Node905', Weight: 33506
+Node316 , Node316', Weight: 14275
+Node-664 , Node-664', Weight: 1849
+Node-340 , Node-340', Weight: 4777
+Node-958 , Node-958', Weight: 7171
+Node-249 , Node-249', Weight: 8587
+Node344 , Node344', Weight: 5055
+Node874 , Node874', Weight: 11825
+Node-284 , Node-284', Weight: 23854
+Node813 , Node813', Weight: 18360
+Node839 , Node839', Weight: 558
+Node-328 , Node-328', Weight: 757
+Node-62 , Node-62', Weight: 747
+Node784 , Node784', Weight: 21205
+Node181 , Node181', Weight: 1882
+Node-721 , Node-721', Weight: 631
+Node-848 , Node-848', Weight: 454
+Node-417 , Node-417', Weight: 5300
+Node-172 , Node-172', Weight: 2058
+Node669 , Node669', Weight: 536
+Node506 , Node506', Weight: 505
+Node359 , Node359', Weight: 9458
+Node308 , Node308', Weight: 5308
+Node-376 , Node-376', Weight: 2083
+Node554 , Node554', Weight: 19076
+Node-818 , Node-818', Weight: 10809
+Node-61 , Node-61', Weight: 2615
+Node892 , Node892', Weight: 662
+Node-542 , Node-542', Weight: 1476
+Node-453 , Node-453', Weight: 9505
+Node-159 , Node-159', Weight: 737
+Node-632 , Node-632', Weight: 13217
+Node-192 , Node-192', Weight: 469
+Node-747 , Node-747', Weight: 933
+Node-675 , Node-675', Weight: 5027
+Node-58 , Node-58', Weight: 7979
+Node-236 , Node-236', Weight: 6104
+Node713 , Node713', Weight: 10482
+Node-694 , Node-694', Weight: 15824
+Node-149 , Node-149', Weight: 22337
+Node-52 , Node-52', Weight: 630
+Node-101 , Node-101', Weight: 10268
+Node518 , Node518', Weight: 34908
+Node-52 , Node-52', Weight: 89125
+Node490 , Node490', Weight: 9185
+Node656 , Node656', Weight: 6636
+Node923 , Node923', Weight: 13255
+Node386 , Node386', Weight: 11554
+Node-41 , Node-41', Weight: 674
+Node-790 , Node-790', Weight: 12125
+Node14 , Node14', Weight: 462
+Node-725 , Node-725', Weight: 3997
+Node-688 , Node-688', Weight: 20767
+Node-310 , Node-310', Weight: 538
+Node-872 , Node-872', Weight: 11342
+Node-572 , Node-572', Weight: 5268
+Node-630 , Node-630', Weight: 562
+Node-280 , Node-280', Weight: 879
+Node-43 , Node-43', Weight: 6955
+Node362 , Node362', Weight: 2466
+Node-194 , Node-194', Weight: 551
+Node732 , Node732', Weight: 4280
+Node-976 , Node-976', Weight: 910
+Node-19 , Node-19', Weight: 539
+Node-6 , Node-6', Weight: 8432
+Node554 , Node554', Weight: 457
+Node840 , Node840', Weight: 516
+Node-50 , Node-50', Weight: 6149
+Node40 , Node40', Weight: 468
+Node854 , Node854', Weight: 3498
+Node586 , Node586', Weight: 3360
+Node-826 , Node-826', Weight: 3118
+Node767 , Node767', Weight: 6305
+Node644 , Node644', Weight: 38564
+Node-136 , Node-136', Weight: 2169
+Node-719 , Node-719', Weight: 770
+Node-988 , Node-988', Weight: 505
+Node-557 , Node-557', Weight: 16018
+Node-964 , Node-964', Weight: 475
+Node-693 , Node-693', Weight: 1310
+Node-883 , Node-883', Weight: 2516
+Node825 , Node825', Weight: 700
+Node567 , Node567', Weight: 14678
+Node4 , Node4', Weight: 3693
+Node-738 , Node-738', Weight: 5147
+Node-504 , Node-504', Weight: 12750
+Node-882 , Node-882', Weight: 12328
+Node262 , Node262', Weight: 8455
+Node-344 , Node-344', Weight: 6950
+Node-997 , Node-997', Weight: 10487
+Node-31 , Node-31', Weight: 17164
+Node391 , Node391', Weight: 3351
+Node315 , Node315', Weight: 637
+Node-721 , Node-721', Weight: 7353
+Node874 , Node874', Weight: 466
+Node-106 , Node-106', Weight: 17212
+Node-532 , Node-532', Weight: 25517
+Node2 , Node2', Weight: 4450
+Node-995 , Node-995', Weight: 75741
+Node376 , Node376', Weight: 515
+Node480 , Node480', Weight: 42625
+Node145 , Node145', Weight: 5064
+Node-972 , Node-972', Weight: 1105
+Node-281 , Node-281', Weight: 88202
+Node-214 , Node-214', Weight: 720
+Node-858 , Node-858', Weight: 1656
+Node179 , Node179', Weight: 9340
+Node337 , Node337', Weight: 3769
+Node151 , Node151', Weight: 14966
+Node-227 , Node-227', Weight: 3553
+Node-855 , Node-855', Weight: 47772
+Node445 , Node445', Weight: 15440
+Node751 , Node751', Weight: 1321
+Node732 , Node732', Weight: 4920
+Node-806 , Node-806', Weight: 5387
+Node846 , Node846', Weight: 14931
+Node161 , Node161', Weight: 16479
+Node-985 , Node-985', Weight: 786
+Node751 , Node751', Weight: 835
+Node-289 , Node-289', Weight: 1080
+Node-88 , Node-88', Weight: 517
+Node-3 , Node-3', Weight: 56901
+Node738 , Node738', Weight: 8700
+Node-3 , Node-3', Weight: 823
+Node311 , Node311', Weight: 30812
+Node-802 , Node-802', Weight: 465
+Node-661 , Node-661', Weight: 625
+Node891 , Node891', Weight: 3876
+Node641 , Node641', Weight: 5806
+Node-499 , Node-499', Weight: 1149
+Node-613 , Node-613', Weight: 9418
+Node874 , Node874', Weight: 2504
+Node129 , Node129', Weight: 576
+Node-684 , Node-684', Weight: 5892
+Node638 , Node638', Weight: 497
+Node174 , Node174', Weight: 4000
+Node-593 , Node-593', Weight: 601
+Node-63 , Node-63', Weight: 10867
+Node-497 , Node-497', Weight: 592
+Node201 , Node201', Weight: 7121
+Node-170 , Node-170', Weight: 3166
+Node-272 , Node-272', Weight: 4923
+Node-626 , Node-626', Weight: 1817
+Node902 , Node902', Weight: 3561
+Node-394 , Node-394', Weight: 6652
+Node-964 , Node-964', Weight: 3988
+Node965 , Node965', Weight: 586
+Node-794 , Node-794', Weight: 475
+Node265 , Node265', Weight: 4087
+Node551 , Node551', Weight: 6661
+Node564 , Node564', Weight: 7154
+Node462 , Node462', Weight: 3558
+Node-276 , Node-276', Weight: 3192
+Node-789 , Node-789', Weight: 5984
+Node-797 , Node-797', Weight: 491
+Node525 , Node525', Weight: 496
+Node165 , Node165', Weight: 3051
+Node725 , Node725', Weight: 9911
+Node539 , Node539', Weight: 684
+Node777 , Node777', Weight: 855
+Node-586 , Node-586', Weight: 3927
+Node-913 , Node-913', Weight: 3297
+Node-103 , Node-103', Weight: 19544
+Node529 , Node529', Weight: 5206
+Node606 , Node606', Weight: 2298
+Node-483 , Node-483', Weight: 1608
+Node-51 , Node-51', Weight: 745
+Node-247 , Node-247', Weight: 421
+Node-349 , Node-349', Weight: 3437
+Node-102 , Node-102', Weight: 3380
+Node-716 , Node-716', Weight: 498
+Node296 , Node296', Weight: 1266
+Node685 , Node685', Weight: 1634
+Node-832 , Node-832', Weight: 595
+Node-455 , Node-455', Weight: 3218
+Node-227 , Node-227', Weight: 2864
+Node636 , Node636', Weight: 8640
+Node-769 , Node-769', Weight: 4340
+Node-985 , Node-985', Weight: 14446
+Node233 , Node233', Weight: 8833
+Node49 , Node49', Weight: 487
+Node926 , Node926', Weight: 66204
+Node288 , Node288', Weight: 35345
+Node38 , Node38', Weight: 3470
+Node520 , Node520', Weight: 9428
+Node793 , Node793', Weight: 4187
+Node259 , Node259', Weight: 7931
+Node927 , Node927', Weight: 11162
+Node494 , Node494', Weight: 2342
+Node974 , Node974', Weight: 11483

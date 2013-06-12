@@ -1,0 +1,112 @@
+<page>
+    <title>Peer review and the Wikipedia process</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>1548863</id>
+      <parentid>1548849</parentid>
+      <timestamp>2009-07-10T07:21:42Z</timestamp>
+      <contributor>
+        <username>Mercy</username>
+        <id>46002</id>
+      </contributor>
+      <comment>rm spam</comment>
+      <sha1>pw6k4dnaf8yf93ysgzq3hl5xob7qiz9</sha1>
+      <text xml:space="preserve">Monday, June 25, 11:17 AM -- It must by now be a commonplace observation that the nature of peer review can change, in some cases has changed, and no doubt will change even further as a result of modes of interaction that only the Internet has made possible. Today I want to discuss a few questions about peer review that Nupedia and Wikipedia raise. While Nupedia is very definitely peer-reviewed, but in a rather unconventional way, Wikipedia is, one might say, ''reviewed,'' to some extent, but not necessarily peer-reviewed. In this column I would like to answer the following questions:
+* How does Nupedia's review process differ from the traditional one, and is it any better for those differences?
+* Is there any sense in which we might say that Wikipedia is reviewed, or even peer-reviewed?
+* Compared to ''traditional'' standards of peer review, how does Wikipedia stack up?
+* Is there any reason to think that the standards of Wikipedia &quot;review&quot; will become any more rigorous, and if so, would that be a good thing?
+
+First, what ''is'' [[peer review]]? Roughly, we might say a work is peer-reviewed if it has been commented on critically, by an intellectual or professional peer of the author, as a condition of its acceptance for publication. The whole purpose of peer review is quality-assurance: we want to ensure that what is published is high enough quality not to constitute a waste of readers' time. It's worth reflecting on the fact, and many an academic of course ''has'' reflected on the fact, that peer review often does not achieve this purpose; often, what undergoes peer review and is accepted for publication ''is,'' in fact, a waste of nearly everyone's time.
+
+''How does Nupedia's review process differ from the traditional one, and is it any better for those differences?''
+
+There are two ways in which Nupedia's review process differs considerably from the traditional one. While it is sometimes possible in peer-reviewed publications for an author to respond to and work with a reviewer, it is rarely to the extent that is permitted, and some cases even required, by Nupedia's Lead Review step. In Lead Review, the reviewer and author engage in a ''discussion'' about the article, via a web forum interface, that leads to the improvement of the article. Then, in the Open Review step, a public peer review of the article occurs; this can only be compared to the give-and-take of the Q&amp;amp;A portion of a conference presentation, which often occurs before an article is published, but is not required.
+
+All this means that Nupedia articles receive, on average, much ''closer'' attention than they would receive under the traditional review process, and the process is aimed more at consensus and improvement than at deciding to accept an article. Arguably, these are improvements over the traditional process.
+
+''Is there any sense in which we might say that Wikipedia is reviewed, or even peer-reviewed?''
+
+In one obvious sense, Wikipedia is reviewed: as a matter of fact, many eyeballs look at different articles, and if some change or addition seems to someone to be necessary, the person makes it. More rarely, a less [[Be bold in updating pages|bold]] Wikipedian will post a criticism on the article's &quot;Talk&quot; page, rather than changing the article itself, leaving it to some other person to make the required changes.
+
+Now, examination of these facts, along with definitions of &quot;review&quot; and &quot;peer review,&quot; leads one to conclude that Wikipedia's give-and-take process does not constitute review, let alone peer review. Review requires an approval of a reviewer before an article can be ''accepted for publication.'' On Wikipedia, anybody can publish anything at any time. Of course, others can immediately delete nonsense, as happens sometimes; but explicit acceptance is not required. Even if one allows stretching the meaning of &quot;review,&quot; by saying that the examination and editing of an article by other Wikipedians constitutes a sort of review, this sort of review isn't ''peer'' review except in those rare cases where two or more people are at work on articles about subjects about which they are both bona fide experts.
+
+''Compared to traditional standards of peer review, how does Wikipedia stack up?''
+
+In the short term, very poorly. Wikipedia's process allows many bad articles to get published. But see below.
+
+''Is there any reason to think that the standards of Wikipedia &quot;review&quot; will become any more rigorous, and if so, would that be a good thing?''
+
+Yes, and yes, and here, things get interesting. Wikipedia articles are getting constantly better as people go back again and again to old articles to add to them, reword misleading statements, correct factual errors, etc. This means that the ''quality'' of Wikipedia articles is ever-improving. An improvement in quality will be noticeable to experts. A shoddy article about topic T in 2001 will be a great article about topic T in 2002. And whereas an expert on T would be so disgusted by the article that he wouldn't think of participating in Wikipedia, in 2002 he might be so impressed by the article, and therefore also by Wikipedia's collaborative article-creation process, that he becomes a Wikipedian on the spot.
+
+So here is my thesis and prediction: as Wikipedia articles improve, it will attract more and more experts. Wikipedia participation in the beginning was limited to many hobbyists, students, and generalists, and a few experts; but in a few years, this project will have attracted the attention of very many more experts.
+
+I've already said [[why Wikipedia is so great|elsewhere]] that Wikipedia has gained and will gain traffic by creating content, and as a result will create even more content even faster. In a similar fashion, Wikipedia will by the nature of the project (and the stewardship of those who care most about it) increase constantly in quality, and as a result become the sort of resource that can attract the sort of people who can make this into a work of the very ''best'' quality.
+
+So, in ''both'' quantity and quality, Wikipedia's encyclopedic wealth will beget even greater wealth.
+
+This bootstrapping process might very well become a very adequate ''substitute'' for and even an ''improvement'' on peer review processes, both traditional and Nupedian. Wikipedia articles, because they are ever-improving and because the barriers to contributing are minimal, do not need to be reviewed. Eventually, those faults in a newly-created Wikipedia article that would cause a reviewer to reject it will be smoothed over by new contributors. Eventually, Wikipedia's articles will, I think, ''far exceed'' the level of quality that would lead a reviewer to accept them. This is possible because Wikipedia is, again, ever-improving and because the barriers to contribution are minimal. So, one might conclude that, paradoxically, ''within the context of the Wikipedia project'' at least, ''the lack of'' a peer review process (properly so-called) will lead to ''superior'' quality in the long run. That's just a prediction, but I think it's worth exploring, and it is already supported by some evidence.
+
+--[[user:Larry_Sanger|Larry_Sanger]]
+----
+It's kind of annoying (though I admit perfectly permissible) that some people see fit to completely wipe out a reasonably well written page for no other reason it seems than they want to be the one to write it. For example, in a few places I noticed that previous revisions that seemed perfectly acceptable were wiped out in favor of someone else's preference to dwell on pronunciation of a name or something equally frivolous. This kind of thing goes against the whole &quot;adding knowledge&quot; philosophy, and could possibly lead to &quot;vendetta&quot; edits. There is little doubt in my mind that these edits were made by the same &quot;experts&quot; referred to above. While I respect and enjoy the wiki process, it sometimes maybe allows people to dwell too heavily on one aspect of their study without the benefit of heavy-handed editorialship. - AD
+----
+Dear Mr. Alan Dershowitz (?!), one definitely has to have a thick skin here, there's no question of that. Disputes about how to edit a page can be and often are resolved on the &lt;nowiki&gt;/Talk&lt;/nowiki&gt; page associated with the article. I'm not quite sure what you're referring to re wiping out an entire page just to replace it with a different article, though. Maybe you could point me to such an instance--I'd be personally curious. Obviously, we want to ''add'' knowledge here, developing work that others have done, rather than replacing it outright. The only time when the latter is acceptable, to my mind, is when the replaced article is so totally incompetent that it simply had no useful content, and it was better simply to begin again. --[[LMS]]
+----
+This is something I wrote on [[Piotr Wozniak]]'s page that I thought might be applicable here as well:
+
+Seeing this wonderfully learned and intelligent guy about has inspired me to write the bio for another Wozniak: [[Steve Wozniak]], who may or may not have been learned but was definitely also quite intelligent. The link is currently dead because I haven't actually written the article. That will happen in good time if I remember too.
+
+Also, I wholeheartedly agree with you about the rampant editing. Open source is good, but dicks abound in this world. If Wikipedia ever does become very, very popular, they will surely set about deleting things. I'd hate to see a 5000 word article be replaced by &quot;Dan loves Sarah&quot; or &quot;Free Kevin Mitchell&quot;. I suggest first: [putting an edit freeze on and then] automatically adding a /Talk section to all articles, to lodge constructive or destructive criticism. These talk pages should definitly show up on recent changes, but probably not on searches for the subject about which they are talking, as their existence would be implied. Secondly: Maybe [[Larry Sanger]] should select some responsible, educated, impartial, experienced, etc., etc. contributors to be moderators, who could decide disagreements that aren't so easily resolved. I'm sure many would be willing volunteers. I'd be happy to if I were only educated, responsible, impartial, or experienced.
+
+While I might not have the character to be a moderator, I could write a conflict submission page in html that would be more practical than making one big Conflict Moderation Wiki page.
+
+
+* &lt;b&gt;A little addition after having given it some thought:&lt;/b&gt;
+
+I think that moderators can still work with the Wikipedia theme without becoming just another Nupedia. First of all, considering that an article can be published so easily, and that the review process will be so less stringent, Wikipedia ought to still grow much faster and be more in the way of the &quot;Open Source&quot; spirit. ( In that less qualified people can review, which I don't consider a necessarily bad thing considering I don't even have a high school diploma. ) You don't really need to deal with conflicts between part-time, volunteer moderators, because it simply doesn't matter that much. This is, after all, not Nupedia. The main problem here is as I see it is not the reliability of the articles, as that's Nupedia's business, but the fear of having hours of work simply deleted. It's not a problem for me because [[Japan/History]] probably isn't all that popular a subject amongst Wikipedia's English speaking audience, and none of sound mind and body can dispute my knowledge and understanding of the [[Philadelphia Phillies]]. Others, though, have lost a lot of valuable time.
+
+There are other issues, such as people writing an article and then never bothering to answer criticism, or moderators being deluged by complaints, but what it all comes down to is that it can't do any harm. If moderators get sick of it, they can just quit, and some people will have to wait. So what?
+
+This would all call for some significant changes to UseModWiki, implementation of a mailing list, a new form page, etc., but if you want to make changes, all you need do is post a list of parameters, in which case I could personally contribute by taking it to friends. Or, if you don't mind being nailed again, you could get an open source call-to-arms posted, if not on Slashdot, one of the smaller yet comparable computer nerd forums.
+
+
+Also, I think you should know that your Wikipedia is keeping me up way to late. ( 2:39 a.m., as of the moment ). I don't know if you should be proud for getting me addicted to a new realm of knowlege, or feel ashamed for shattering my beauty sleep. I can just picture the black marks under my eyes right now.
+
+--[[Seckstu]]
+
+----
+Ooh, ooh, I know. People could request to change a page, and if the author doesn't respond in a given time, the requestor than has power to change it. Maybe even earn the title &quot;author&quot; himself. This would make UseModWiki much more complicated, but enough open source programmers can handle that. It would probably be a big load on the server, but maybe distributing the server load? I could might be able to talk [[David Reed]] at Simon's Rock into some hosting, and others might do the same. Damn, that's even more complicated. But still, other people can figure such things out if they want to, because I need to go to bed now. As I see it though, the only real impediment to Wikigrowth is that hours of oh-so valuable time, of writing and guarding articles, can be so easily lost. Easier solutions than mine are likely better, but if that one problem is fixed, well, I tingle at the idea of this place's potential. ( Not that I don't already. )
+
+--[[Seckstu]] again. Sorry. My brain storms a lot in the wee hours of the night.
+----
+The short answer to your concerns, [[Steckstu]] (which is all I can afford right now), is that there just isn't any serious problem about vandalism on Wikipedia yet, and you would do well to give some thought as to why not. With greater size, this will probably change, though, and that ''could'' really be a huge problem--we'll have to change the [[Recent Changes]] page functionality accordingly. I'm about to write a column about this. --[[LMS]]
+
+== Public Health Warning Required ==
+
+To echo my comments on the main site. 
+
+A public health warning is required that warns people not to use Wikipedia as an authoritative reference - the current disclaimers are inadequate and not sufficiently prominent. I believe there should be a prominant disclaimer placed in large bold friendly &quot;Don't Panic&quot; letters on the front page. Yes, I know there is a disclaimer on each page and that the disclaimer page uses large bold letters - but these are not sufficiently prominent and most members of the public will not click through.
+
+I am also concerned that the Wikipedia content is being represented by such sites as ANSWERS.COM where the problem is in fact greater than on the main site because the content is presented with some authority and the disclaimer is watered down to read:
+
+&lt;i&gt;This entry is from Wikipedia, the leading user-contributed encyclopedia. It may not have been reviewed by professional editors.&lt;/i&gt;
+
+I note with increasing concern that Google appear to be giving priority to Wikipedia pages and so the public will be misled. I believe something needs to be done urgently. It needs to be done by the architects and developers of Wikipedia since a prominent disclaimer is required at the head of every page throughout the 'pedia and it needs to propagate out to the distributions. I even find myself reading a Wikipedia article on Answers.com and it IS NOT immediately clear that it is a Wikipedia article. We really need to do something about it. 
+
+In particular, the public need to be aware that the information in Wikipedia may not only contain errors and bias but that the collected articles can be hijacked subtly by special interests to provide a distorted view of the facts, that - in fact - Wikipedia is NOT A PROCESS OF PEER REVIEW since peer review suggests a collection of authors with equal authority in a given subject area. Wikipedia is a PROCESS OF MOB REVIEW - let's be clear about that!
+
+A website that is attributed to an individual carries with it the authority only of that individual - and is relatively easy to assess. Though it remains a problem too, the problem is lesser because people are innately aware of the issue of dealing with individuals - individuals have to earn respect and authority. 
+
+The situation is different at Wikipedia where authority comes by convention associated simply by calling the site an encyclopedia. Good and valid contributions provide authority by association to less worthy contributions and can be quickly over written by the misguided and the malicious. Authority becomes detacted from that of a single individual and the public misinterpret the standing of the content.
+
+It is made worse when other &quot;authorities&quot; (like Google and Answers.com) claim, without the appropriate caveats, that Wikipedia &quot;is a good idea&quot; because it can be edited by anyone. Wikipedia is an interesting exercise, it's like a political game, it &lt;b&gt;IS NOT A PEER REVIEWED ENCYCLOPEDIA IN ANY SENSE&lt;/b&gt;.  It misdirects the public and could eventually undermine the basis of all public consensus since the public may come eventually to feel betrayed by intellectual authority.
+
+The bottomline is that Wikipedia holds significant social danger, the public is being misled regarding its authority and can be manipulated by the unscrupulous. If you are complacent now, the problem will arise in the future, long after we here are gone, and be noticed too late. We need to encourage and support the individual responsiblility to assess authority - but without a clear public health warning the general public will take the content as read.
+
+[[User:Stevenzenith|Stevenzenith]] 19:22, 31 May 2005 (UTC)
+
+[[Category:Discussions]]</text>
+    </revision>
+  </page>
