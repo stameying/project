@@ -14,7 +14,7 @@ public class task7 {
 	public static void main(String[] agrs) throws IOException
 	{
 		Jedis jedis = new Jedis("localhost",6379);
-		task6 test = new task6();
+		task7 test = new task7();
 		InputReader2 ir = new InputReader2();
 		ir.readFile("E-mail.txt");
 		ArrayList<String> content = ir.getContentList();
