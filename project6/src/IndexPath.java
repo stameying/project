@@ -1,4 +1,3 @@
-package project6;
 import java.util.*;
 import redis.clients.jedis.Jedis;
 

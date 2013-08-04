@@ -1,5 +1,3 @@
-package project6;
-
 public class Edge {
 
 	private int edge_index;
