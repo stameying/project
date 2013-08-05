@@ -43,5 +43,17 @@ public class task6 {
 		getParagraph.printNodeList();
 		long endTime=System.currentTimeMillis(); 
 		System.out.println((endTime-startTime) + " ms");
+		
+		startTime=System.currentTimeMillis();  
+		for (int i = 0; i < content.size() ; i++)
+		{
+			String mailIndex = title.get(i);
+			String mailContent = content.get(i);
+			ArrayList<Integer> result = getParagraph.indexString(i,mailContent,graph);
+			Map<Integer,String> library = new HashMap<Integer,String>();
+		    indexPath.getPath(i ,result);
+		}
+		endTime=System.currentTimeMillis(); 
+		System.out.println((endTime-startTime) + " ms");
 	}
 }
