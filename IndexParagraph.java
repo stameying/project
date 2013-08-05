@@ -69,10 +69,10 @@ public class IndexParagraph {
 		
 		if (checkResult == 1)
 		{
-			
+			result.add(index, hashCode);
 		}
-		else{
-		
+		else
+		{
 		if (checkResult != 1)
 		{
 			addToLibrary(paragraph , checkResult);
@@ -259,11 +259,9 @@ public class IndexParagraph {
 	public int checkWord(int HashCode, String word)
 	{
 		int result = -1;
-		System.out.println("9");
 		// word is not included , ok to be added into library
 	if (!library.containsKey(HashCode))
 	{
-		System.out.println("10");
 		result = 0;
 		return result;	
 	}
