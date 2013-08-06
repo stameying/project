@@ -39,6 +39,7 @@ public class task6 {
 		long endTime=System.currentTimeMillis(); 
 		System.out.println("Create Graph Time = " + (endTime-startTime) + " ms");
 		
+		//
 		startTime=System.currentTimeMillis();  
 		graph.weightGraph1();
 		graph.weightGraph2();
