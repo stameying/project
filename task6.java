@@ -36,13 +36,17 @@ public class task6 {
 			Map<Integer,String> library = new HashMap<Integer,String>();
 		    indexPath.getPath(i ,result);
 		}
+		long endTime=System.currentTimeMillis(); 
+		System.out.println("Create Graph Time = " + (endTime-startTime) + " ms");
+		
+		startTime=System.currentTimeMillis();  
 		graph.weightGraph1();
 		graph.weightGraph2();
 		graph.weightGraph3();
-		graph.test2();
+		//graph.test2();
 		getParagraph.printNodeList();
-		long endTime=System.currentTimeMillis(); 
-		System.out.println((endTime-startTime) + " ms");
+		endTime=System.currentTimeMillis(); 
+		System.out.println("Weight Graph Time = " + (endTime-startTime) + " ms");
 		
 		startTime=System.currentTimeMillis();  
 		for (int i = 0; i < content.size() ; i++)
@@ -54,6 +58,18 @@ public class task6 {
 		    indexPath.getPath(i ,result);
 		}
 		endTime=System.currentTimeMillis(); 
-		System.out.println((endTime-startTime) + " ms");
+		System.out.println("Second time = " +  (endTime-startTime) + " ms");
+		
+		startTime=System.currentTimeMillis();  
+		for (int i = 0; i < content.size() ; i++)
+		{
+			String mailIndex = title.get(i);
+			String mailContent = content.get(i);
+			ArrayList<Integer> result = getParagraph.indexString(i,mailContent,graph);
+			Map<Integer,String> library = new HashMap<Integer,String>();
+		    indexPath.getPath(i ,result);
+		}
+		endTime=System.currentTimeMillis(); 
+		System.out.println("third time = " +  (endTime-startTime) + " ms");
 	}
 }
