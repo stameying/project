@@ -223,11 +223,13 @@ public class NodeGraph {
 	
 	public void weightGraph3()
 	{
+		System.out.println("KeyNode size is " + this.Key_Node_Group.size());
 		for(int i = 0 ; i < this.Key_Node_Group.size(); i++)
 		{
 			KeyNode key_Node = this.Key_Node_Group.get(i);
 			if ( checkNodeList(key_Node.get_nodeList()))
 			{
+				System.out.println("Passed");
 				size3 += 5;
 				for (int j = 0; j < key_Node.get_nodeList().size(); j++)
 				{
@@ -313,4 +315,19 @@ public class NodeGraph {
 		}
 	}
 
+	public ArrayList<Integer> getList()
+	{
+		ArrayList<Integer> duList = new ArrayList<Integer>();
+		int count = 0;
+		while (count < Node_Group.size())
+		{
+			if (Node_Group.get(count).getDegree() >= 3)
+			{
+			int index = Node_Group.get(count).getIndex();
+			duList.add(index);
+			}
+			count ++;
+		}
+		return duList;
+	}
 }
