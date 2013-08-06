@@ -67,12 +67,7 @@ public class IndexParagraph {
 		
 		int checkResult = checkWord(hashCode,paragraph);
 		
-		if (checkResult == 1)
-		{
-			result.add(index, hashCode);
-		}
-		else
-		{
+	
 		if (checkResult != 1)
 		{
 			addToLibrary(paragraph , checkResult);
@@ -118,7 +113,7 @@ public class IndexParagraph {
 				node.degreeIncrement();
 			}
 		}
-		}
+		
 		index++;
 		}
 		
