@@ -30,13 +30,13 @@ public class NodeGraph {
 		}
 	}
 	
-	public void connectNode(int mailId, ArrayList<Node> node_list,String content, int content_lengt)
+	public void connectNode(int mailId, ArrayList<Node> node_list,String content, int content_lengt, ArrayList<Integer> path)
 	{
 		
 		int count = 0;
 		
-		KeyNode key_node = new KeyNode("Key"+mailId+"", mailId, content, content_lengt, node_list);
-		EndNode stop_node = new EndNode("End"+mailId+"", mailId);
+		KeyNode key_node = new KeyNode(mailId+"", mailId, content, content_lengt, node_list, path);
+		EndNode stop_node = new EndNode(mailId+"", mailId);
 		
 		add_Key_Node(key_node);
 		
@@ -229,13 +229,14 @@ public class NodeGraph {
 			KeyNode key_Node = this.Key_Node_Group.get(i);
 			if ( checkNodeList(key_Node.get_nodeList()))
 			{
-				System.out.println("Passed");
 				size3 += 5;
 				for (int j = 0; j < key_Node.get_nodeList().size(); j++)
 				{
 					Node next_node = key_Node.get_nodeList().get(j);
 					if ( !node_hitted(next_node))
 					{
+						System.out.println(adjustContent(next_node.getContent()));
+						System.out.println("size3+" + next_node.getSize() );
 						size3 += next_node.getSize();
 						hit_node(next_node);
 					}
@@ -244,6 +245,7 @@ public class NodeGraph {
 			}
 			else
 			{
+				System.out.println(i+": " + "size3+" + key_Node.getLength()) ;
 				size3 += key_Node.getLength(); 
 			}
 			
@@ -329,5 +331,66 @@ public class NodeGraph {
 			count ++;
 		}
 		return duList;
+	}
+	
+	public String getInitialContent( Map<Integer, String> library)
+	{
+		String inicontent= "";
+		for(int i = 0 ; i < this.Key_Node_Group.size(); i++)
+		{
+			ArrayList<Integer> path = this.Key_Node_Group.get(i).get_path();
+			String index = "///"+(i+1)+"\n";
+			inicontent += index;
+			for (int j = 0; j < path.size(); j++)
+			{
+				String next_content = library.get(path.get(j));
+				inicontent += next_content;	
+			}	
+			
+		}
+		return inicontent;
+	}
+	
+	public void node_hit_clear()
+	{
+		Map<Integer,Integer> nodehitListupdate = new HashMap<Integer,Integer>();
+		Iterator<Integer> it = nodehitList.keySet().iterator();
+		
+		while (it.hasNext())
+		{
+			int key = it.next();
+			nodehitListupdate.put(key, 0);
+		}
+		this.nodehitList = nodehitListupdate;
+	}
+	
+	public String adjustContent(String paragraph)
+	{
+		String ADcontent = "";
+		int count = 0;
+		while (count < paragraph.length())
+		{
+			char ch = paragraph.charAt(count);
+			if (ch == '\n')
+			{
+				ch = '*';
+			}
+			ADcontent+=ch;
+			count++;
+		}
+		return ADcontent;
+	}
+	
+	public ArrayList<KeyNode> GetKeyNodeGroup()
+	{
+		return this.Key_Node_Group;
+	}
+	
+	
+	public String getTestData(int index)
+	{
+		KeyNode keynode = Key_Node_Group.get(index);
+		String data = keynode.getContent();
+		return data;
 	}
 }
